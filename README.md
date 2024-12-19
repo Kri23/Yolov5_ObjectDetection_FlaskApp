@@ -1,5 +1,5 @@
-# Assessment_AIMonkLabs
-This is a private repository made to share solution for assesment shared by AIMonk Labs
+# YOLOv5 Object Detection Application (Python Flask)
+This is application uses yolov5 pretrained model for object detection in the user submitted images.
 
 ## Installation
 
